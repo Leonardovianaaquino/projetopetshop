@@ -1,0 +1,40 @@
+.mainav{
+    font-size: 18px;
+}
+
+.mainav1{
+    background-color: gray;
+    color: yellow;
+    text-align: left;
+    width: 70%;
+    height: 10%;
+    margin: left;
+    float: left;
+    
+    
+}
+.mainav2{
+    background-color: yellow;
+    color: black;
+    float: right;
+    width: 30%;
+    height: 10%;
+    text-decoration: none;
+   
+    
+}
+.mainav2 li{
+    display: inline;
+    text-decoration: none;
+    padding: 5%;
+    font-size: 18px;
+}
+.mainav1 p{
+    font-size: 18px;
+}
+
+
+
+
+
+
